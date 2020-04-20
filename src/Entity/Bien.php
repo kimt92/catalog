@@ -2,7 +2,7 @@
 
 class Bien extends Produit
 {
-    private int $id;
+    private $id;
 
 }
 

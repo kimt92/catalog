@@ -3,7 +3,7 @@
 
 abstract class Produit
 {
-    protected string $reference;
-    protected string $nom;
-    protected float $prix;
+    protected $reference;
+    protected $nom;
+    protected $prix;
 }
