@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a723c1a5-09ae-4df6-b1cb-1d8103f68976" name="Default Changelist" comment="" />
+    <list default="true" id="a723c1a5-09ae-4df6-b1cb-1d8103f68976" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,8 +15,14 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
   <component name="ProjectId" id="1aomHGFw6LeNxhlzxHFP9En3ye1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -21,7 +30,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
   </component>
@@ -35,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587410230141</updated>
-      <workItem from="1587410231652" duration="823000" />
+      <workItem from="1587410231652" duration="4399000" />
     </task>
     <servers />
   </component>
@@ -47,6 +58,10 @@
       <screen x="0" y="27" width="1600" height="873" />
     </state>
     <state x="595" y="260" width="399" height="405" key="NewPhpClassDialog/0.27.1600.873/1600.0.1600.900@0.27.1600.873" timestamp="1587410292566" />
+    <state x="595" y="384" width="399" height="157" key="NewPhpFileDialog" timestamp="1587415795703">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="595" y="384" width="399" height="157" key="NewPhpFileDialog/0.27.1600.873/1600.0.1600.900@0.27.1600.873" timestamp="1587415795703" />
     <state x="289" y="97" key="SettingsEditor" timestamp="1587410322927">
       <screen x="0" y="27" width="1600" height="873" />
     </state>
