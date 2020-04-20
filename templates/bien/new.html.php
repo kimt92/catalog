@@ -1,3 +1,12 @@
+<?php
+
+
+    if ($_SERVER["REQUEST_METHOD"] === "POST") {
+        if ($_POST["ajouter"]) {
+            var_dump($_POST);
+        }
+    }
+?>
 <!doctype html>
 <html lang="en">
   <head>
@@ -31,7 +40,8 @@
    </div>
    <div class="container">
        <div class="mt-2">
-           <form>
+           <form action="new.html.php" method="post">
+               <input type="hidden" name="ajouter" value="catalog">
                <div class="form-row">
                     <div class="col-sm-3">
                         <label for="reference">Réference</label>

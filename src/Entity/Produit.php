@@ -1,5 +1,7 @@
 <?php
 
+namespace Catalog\Entity;
+
 
 abstract class Produit
 {
